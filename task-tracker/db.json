@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "MECH 1",
+      "day": "March 20 at 01:02PM",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "MECH 6",
+      "day": "March 20 at 01:02PM",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "MECH 5",
+      "day": "March 20 at 01:02PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "MECH 3",
+      "day": "March 20 at 01:02PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "MECH 2",
+      "day": "March 20 at 01:02PM",
+      "reminder": true
+    },
+    {
+      "text": "askas",
+      "day": "asad",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "dasdas",
+      "day": "safa",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "akshay",
+      "day": " HAJKSJD",
+      "reminder": true,
+      "id": 9
+    }
+  ]
+}
